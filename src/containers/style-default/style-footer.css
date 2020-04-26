@@ -1,0 +1,39 @@
+footer {
+    padding: 40px 10px 0px 10px;
+    font-size: 22px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px 5px 0px 0px;
+    border: 1px solid #c8ced3 ;
+  }
+  
+  footer ul {
+    margin-bottom: 0px !important;
+  }
+footer a{
+  color: black;
+}
+  footer a:hover {
+    text-decoration: none;
+    color: #64d5f1;
+  }
+  
+  footer h4 {
+    color:#4d92d3;
+  }
+  
+  .fb-icon {
+    color: #1a7dde;
+  }
+  .twitter-icon {
+    color: #1c9deb;
+  }
+  .gg-icon {
+    color: rgb(189, 89, 89);
+  }
+  .in-icon {
+    color: rgb(111, 202, 214);
+  }
+  .youtube-icon {
+    color: red;
+  }

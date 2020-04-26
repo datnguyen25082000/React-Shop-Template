@@ -1,0 +1,40 @@
+.list-item {
+    padding-bottom: 150px;
+    font-size: 15px !important;
+    background-color: white;
+    border-radius: 0px 0px 5px 5px;
+  }
+  @media only screen and (min-width: 700px) {
+    .item-img {
+      max-width: 100px;
+    }
+  }
+  .total {
+    position: absolute;
+    right: 10%;
+    bottom: -10%;
+    font-size: 20px;
+  }
+  
+  /* detail tag */
+
+  .detail-tag {
+    border-radius: 0px 0px 5px 5px;
+  }
+
+  .detail-tag .detail-title {
+    text-align: center;
+    margin-top: 80px;
+  }
+
+  .detail-tag .row {
+    margin-top: 80px;
+    padding-bottom: 50px;
+  }
+
+  .detail-tag .detail-img , .detail-tag .detail-pro{
+    padding: 10px 20px;
+  }
+  .detail-tag .detail-img  {
+    text-align: center;
+  }

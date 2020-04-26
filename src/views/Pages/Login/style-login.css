@@ -1,0 +1,12 @@
+.login-screen {
+    background-image: url("../../../assets/img/login-bg.jpg");
+}
+
+.input {
+    padding: 15px 10px !important;
+}
+
+.register-screen {
+    background-image: url("../../../assets/img/register-logo.jpg");
+    background-repeat:no-repeat ;
+}
